@@ -69,7 +69,7 @@ const songs = [
     { title: "Die With A Smile", artist: "By Lady gaga & Bruno Mars", file: "song69.mp3", cover: "cover69.jpg" },
     { title: "Arms Around You (feat. Maluma & Swae Lee)", artist: "XXXTENTACION", file: "song70.mp3", cover: "cover70.jpg", bgVideo: "Arms Around You.mp4" },
     { title: "Ransom (with Juice WRLD)", artist: "Lil Tecca ", file: "song71.mp3", cover: "cover71.jpg", bgVideo: "Ransom.mp4" },
-    { title: "Celeste", artist: "D4VD ", file: "cleste.mp3", cover: "celeste cover.jpg", bgVideo: "Celeste.mp4" },
+    { title: "Celeste", artist: "D4VD ", file: "cleste.mp3", cover: "celeste cover.jpg", bgVideo: "106375-672600413_large.mp4" },
 ];
 
 
