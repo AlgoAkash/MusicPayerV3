@@ -70,6 +70,8 @@ const songs = [
     { title: "Arms Around You (feat. Maluma & Swae Lee)", artist: "XXXTENTACION", file: "song70.mp3", cover: "cover70.jpg", bgVideo: "Arms Around You.mp4" },
     { title: "Ransom (with Juice WRLD)", artist: "Lil Tecca ", file: "song71.mp3", cover: "cover71.jpg", bgVideo: "Ransom.mp4" },
     { title: "Celeste", artist: "D4VD ", file: "cleste.mp3", cover: "celeste cover.jpg", bgVideo: "106375-672600413_large.mp4" },
+    { title: "Starstruck", artist: "Juice WRLD ", file: "song72.mp3", cover: "cover72.jpg", bgVideo: "starstruck.mp4" },
+    
 ];
 
 
